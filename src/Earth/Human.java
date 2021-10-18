@@ -1,3 +1,5 @@
+package Earth;
+
 public class Human {
     int age;
     String eyeColor;
