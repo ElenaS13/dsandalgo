@@ -1,7 +1,7 @@
 public class BSPractice {
     public static void main(String[] args) {
         int [] arr = {2,3,4,5,6,7,8,9,233,23333,30000};
-        System.out.println(binarySearch(arr, 7));
+        System.out.println(binarySearch(arr, 30000));
 
     }
 
