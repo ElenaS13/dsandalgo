@@ -3,14 +3,11 @@ import java.util.Stack;
 
 public class StackPractice {
     public static void main(String[] args) {
+
         String myString = "hello";
         System.out.println(reverseWord(myString));
-
-
-
-
-
     }
+
 
     public static String reverseWord(String myString){
 
@@ -28,5 +25,7 @@ public class StackPractice {
 
        return result;
     }
+
+
 }
 
