@@ -26,7 +26,7 @@ public class App {
 
         while(aNode!= null){
             length++;
-            aNode = aNode.next; // step over to the next node 
+            aNode = aNode.next; // step over to the next node
         }
 
         return length;
